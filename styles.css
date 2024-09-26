@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Agatho';
+    src: url('assets\fonts\Agatho_ Light.otf') format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffe4;
+}
+
+body {
+    max-width: 400px;
+    background-image: url();
+    font-family: '';
+    color: black;
+}
+
+h1 
+{
+    font-family: '';
+    line-height: 2rem;
+
+}
+h2 {
+    font-family: '';
+    line-height: 2rem;
+
+}
+
+.social-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.social-link{
+    margin: 2.5%;
+}
+
+
+ul {
+    display: grid;
+    gap: 0.75rem;
+    font-family: '';
+    font-style: italic;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+p {
+    font-family: '';
+    font-style: italic;
+}
