@@ -11,35 +11,43 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffffe4;
+    background-color: #000000;
 }
 
 body {
     max-width: 400px;
     background-image: url();
     font-family: '';
-    color: black;
+}
+
+p
+{
+    color: #ff9a9a;
 }
 
 h1 
 {
     font-family: '';
     line-height: 2rem;
+    color: #ff4444
 
 }
 h2 {
     font-family: '';
     line-height: 2rem;
+    color: #ff4444;
 
 }
 
 .social-container{
     display: flex;
     flex-direction: row;
+    color: #ff9a9a;
 }
 
 .social-link{
     margin: 2.5%;
+    color: #ff9a9a;
 }
 
 
@@ -56,11 +64,11 @@ img {
 }
 
 a {
-    color: black;
+    color: #fff;
 }
 
 a:visited {
-    color: black;
+    color: #ff9a9a;
 }
 
 p {
