@@ -22,7 +22,7 @@ body {
 
 p
 {
-    color: #ff9a9a;
+    color: #fff;
 }
 
 h1 
@@ -47,7 +47,7 @@ h2 {
 
 .social-link{
     margin: 2.5%;
-    color: #ff9a9a;
+    color: #fff;
 }
 
 
@@ -64,11 +64,11 @@ img {
 }
 
 a {
-    color: #ff9a9a;
+    color: #fff;
 }
 
 a:visited {
-    color: #ff9a9a;
+    color: #fff;
 }
 
 p {
