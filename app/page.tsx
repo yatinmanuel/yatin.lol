@@ -50,7 +50,7 @@ export default function Home() {
           >
             Halvex
           </TooltipLink>
-          , a startup that aims to provide affordable cloud infrastructure revolutionary digital solutions to make a
+          , a startup that aims to provide revolutionary digital solutions to make a
           positive impact on the world.
         </div>
 
