@@ -41,7 +41,7 @@ export default function Home() {
         <div className="font-mono text-sm md:text-base leading-relaxed text-gray-200">
           I'm one of the co-founders of{" "}
           <TooltipLink
-            href="https://halvex.com"
+            href="https://halvex.net"
             tooltipContent="Halvex - The Internet Company."
             imageUrl="/images/halvex-logo.svg"
             imageAlt="Halvex logo"
