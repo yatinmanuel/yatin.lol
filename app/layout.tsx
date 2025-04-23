@@ -25,7 +25,7 @@ export const metadata = {
     url: "https://yatin.lol",
     images: [
       {
-        url: "/images/banner.png",
+        url: "https://yatin.lol/images/banner.png",
         width: 1200,
         height: 630,
         alt: "Yatin Manuel banner",
@@ -36,7 +36,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Yatin Manuel",
     description: "19 y/o student, co-founder & ceo @ halvex, system/network administrator",
-    images: ["/images/banner.png"],
+    images: ["https://yatin.lol/images/banner.png"],
   },
 }
 
